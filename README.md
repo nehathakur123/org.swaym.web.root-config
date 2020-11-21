@@ -1,0 +1,1 @@
+# org.swaym.web.root-config
